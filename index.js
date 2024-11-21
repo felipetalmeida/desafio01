@@ -1,4 +1,4 @@
-let nomeHeroi = "Chandanga"
+let nomeHeroi = "Super Joelho"
 let experiencia = 2500
 let nivel = ""
 
@@ -27,4 +27,4 @@ else if(experiencia <= 1000){
     nivel = "Ferro"
 }
 
-console.log(nivel)
+console.log("O Herói de nome **" + nomeHeroi + "** está no nível de **" + nivel + "**")
